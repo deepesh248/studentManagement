@@ -1,0 +1,32 @@
+body{
+	background-color: #363d4b;
+}
+#studentForm{
+	width: 30%;
+	height: 73vh;
+	padding: 3rem;	
+	background-color: white;
+	margin: auto;
+	border-radius: 2rem;
+	font-family: 'Signika', sans-serif;
+}
+
+.heading{
+	color: white;
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+	margin: 2rem 0;
+}
+
+#address{
+	height: 5rem;
+	resize: none;
+}
+input{
+	outline: none;
+}
+#register{
+	background-color: green;
+	margin-top: 2rem;
+	text-align: center;
+}

@@ -1,0 +1,19 @@
+body{
+	background-color: #363d4b;
+}
+
+.heading{
+	color: white;
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+	margin: 2rem 0
+}
+
+#all-students{
+	width: 80%;
+	margin: auto;
+}
+
+.table{
+	border: 10px solid rgb(0, 128, 255);
+}
