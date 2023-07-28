@@ -1,4 +1,4 @@
-# studentManagement
+# Student Management System
 EduNexus is an innovative and user-friendly student management project designed to streamline educational institutions' administrative tasks. This web application, built using cutting-edge technologies such as Spring Boot, HTML, CSS, Bootstrap, and Thymeleaf, offers a comprehensive set of features to efficiently manage student information.
 
 ##Key Features:
